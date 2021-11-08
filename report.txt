@@ -1,0 +1,102 @@
+Interval 1, Minute 0
+	Location 10000001
+		13 Freezer - Upright/Chest 17 cu.ft. - Frostfree
+	Location 10000003
+		58 Freezer - Upright/Chest 17 cu.ft. - Frostfree
+	Location 10000009
+		167 Air Conditioner - 7000 BTU
+	Location 10000013
+		225 Freezer - Upright/Chest 17 cu. ft
+	Location 10000026
+		469 Freezer - Upright/Chest 17 cu.ft. - Frostfree
+	Location 10000031
+		544 Refrigerator - Freezer 25 cu. ft. - Side by Side
+	Location 10000034
+		597 Air Purifier
+	Location 10000056
+		987 Refrigerator - Freezer 21 cu. ft.- Side by Side
+	Location 10000073
+		1290 Refrigerator - 1.7 cu. ft.
+	Location 10000080
+		1408 Clothes Dryer - Electric
+	Location 10000089
+		1571 Refrigerator - 14 cu. ft.
+	Location 10000090
+		1588 Refrigerator - 14 cu. ft. - Frostfree
+	Location 10000093
+		1642 Refrigerator - Freezer 24 cu. ft. - Frostfree
+	Location 10000098
+		1721 Refrigerator - 21 cu.ft. - Frostfree
+Interval 2, Minute 15
+	Location 10000003
+		58 Freezer - Upright/Chest 17 cu.ft. - Frostfree
+	Location 10000007
+		129 Refrigerator - 21 cu.ft. - Frostfree
+	Location 10000012
+		213 Refrigerator - Freezer 24 cu. ft. - Frostfree
+	Location 10000013
+		225 Freezer - Upright/Chest 17 cu. ft
+	Location 10000024
+		424 Refrigerator - Freezer 24 cu. ft. - Frostfree
+	Location 10000026
+		459 Hair Dryer (Hand Held)
+	Location 10000031
+		544 Refrigerator - Freezer 25 cu. ft. - Side by Side
+	Location 10000034
+		597 Air Purifier
+	Location 10000036
+		630 Air Purifier
+	Location 10000055
+		970 Refrigerator - Freezer 25 cu. ft. - Side by Side
+	Location 10000063
+		1096 Refrigerator - Freezer 21 cu. ft.- Side by Side
+	Location 10000090
+		1588 Refrigerator - 14 cu. ft. - Frostfree
+	Location 10000093
+		1642 Refrigerator - Freezer 24 cu. ft. - Frostfree
+Interval 3, Minute 30
+	Location 10000004
+		70 Air Conditioner - 7000 BTU
+	Location 10000012
+		213 Refrigerator - Freezer 24 cu. ft. - Frostfree
+	Location 10000026
+		469 Freezer - Upright/Chest 17 cu.ft. - Frostfree
+	Location 10000031
+		544 Refrigerator - Freezer 25 cu. ft. - Side by Side
+	Location 10000034
+		597 Air Purifier
+	Location 10000036
+		630 Air Purifier
+	Location 10000073
+		1290 Refrigerator - 1.7 cu. ft.
+	Location 10000074
+		1293 Refrigerator - 17 cu. ft - Frostfree
+	Location 10000080
+		1405 Air Conditioner - 10000 BTU
+	Location 10000099
+		1737 Refrigerator - 19 cu. ft. - Frostfree
+Interval 4, Minute 45
+	Location 10000004
+		69 Clothes Dryer - Electric
+	Location 10000010
+		178 Refrigerator - Freezer 24 cu. ft. - Frostfree
+	Location 10000012
+		213 Refrigerator - Freezer 24 cu. ft. - Frostfree
+	Location 10000013
+		225 Freezer - Upright/Chest 17 cu. ft
+	Location 10000031
+		544 Refrigerator - Freezer 25 cu. ft. - Side by Side
+	Location 10000034
+		597 Air Purifier
+	Location 10000036
+		630 Air Purifier
+	Location 10000060
+		1056 Refrigerator - 21 cu.ft. - Frostfree
+	Location 10000080
+		1408 Clothes Dryer - Electric
+	Location 10000089
+		1571 Refrigerator - 14 cu. ft.
+	Location 10000090
+		1588 Refrigerator - 14 cu. ft. - Frostfree
+	Location 10000099
+		1737 Refrigerator - 19 cu. ft. - Frostfree
